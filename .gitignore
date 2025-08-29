@@ -1,0 +1,12 @@
+
+# System files
+.DS_Store
+Thumbs.db
+*.log
+
+# Node/Python envs (future proofing)
+node_modules/
+venv/
+
+# Project-specific
+archive/
